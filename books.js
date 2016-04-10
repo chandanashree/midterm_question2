@@ -1,5 +1,6 @@
 function boyFriendsBooks(){
    var list = [
+   {name: " J.A. Redmerski", book:"The Edge of Never "},
    {name: "Colleen Hoover", book:"Hopeless"   },
    {name: "John Green", book:"The Fault in Our Stars"}
    ]
